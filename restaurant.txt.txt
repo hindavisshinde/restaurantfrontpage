@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Restaurant</title>
+</head>
+<body>
+   
+    <header>
+        <nav>
+            <ul id="nav-menu">
+                <li><a href="#home">Home</a></li><br>
+                <li><a href="#menu">Menu</a></li><br>
+                <li><a href="#contact">Contact</a></li><br>
+                <li><a href="#offers">Offers</a></li><br>
+                <li><a href="#about">About</a></li><br>
+                <li><a href="#location">Location</a></li><br>
+            </ul>
+        </nav>
+        <div class="hero">
+            <h1>CHINESE FOOD</h1>
+            <p>Serving delicious food since 2023</p>
+        
+        </div>
+    </header>
+    <section id="menu">
+        <h2>Menu</h2>
+        <div class="menu-item">
+            <img src="noddles.jpg" alt="Food 1" width="300" height="200">
+            <h3>Noddles</h3>
+            <p>A bowl of spicy and yummy noodels serve with schezwan chutney.Serve for 1.</p>
+        
+        </div>
+        <div class="menu-item">
+            <img src="momos.jpg" alt="Food 2" width="300" height="200">;
+            <h3>Momos</h3>
+            <p>8 piece of declious momos in a bowl with white mayo and tomato ketchup.Serve for 2.</p>
+            
+        </div>
+        <div class="menu-item">
+            <img src="manchurian.jpg" alt="Food 3" width="300" height="200">
+            <h3>Manchurian</h3>
+            <p>A plate of manchurian balls serve with tomato ketchup.Serve for 1.</p>
+            <button class="order-button">Order Now</button>
+        </div>
+    </section>
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Phone: 123-456-7890</p>
+        <p>Email: info@chinesefood.com</p>
+    </section>
+    <section id="offers">
+        <h2>Offers</h2>
+        <p>Get 10% off your first order with code FIRST10</p>
+    </section>
+    <section id="about">
+        <h2>About</h2>
+        <p>Restaurant is a family-owned restaurant serving delicious food since 2023. Our mission is to provide high-quality food and excellent customer service.</p>
+    </section>
+    <section id="location">
+        <h2>Location</h2>
+        <p>123 Main St, Anytown, USA</p>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3152.643228022094!2d-80.19334228450352!3d26.07461608012822!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88d9b054d6d06b5b%3A0x37b83e6a2e1d689a!2sCoral+Gables%2C+FL+33134%2C+USA!5e0!3m2!1sen!2sus!4v167552
+        
